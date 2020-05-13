@@ -1,0 +1,23 @@
+﻿  main.cpp
+c:\users\lmj33\desktop\소스 코드\datastructure\project5\main.cpp(240): error C2371: 'iter': 재정의. 기본 형식이 다릅니다.
+  c:\users\lmj33\desktop\소스 코드\datastructure\project5\main.cpp(215): note: 'iter' 선언을 참조하십시오.
+c:\users\lmj33\desktop\소스 코드\datastructure\project5\main.cpp(241): error C2371: 'iterEnd': 재정의. 기본 형식이 다릅니다.
+  c:\users\lmj33\desktop\소스 코드\datastructure\project5\main.cpp(216): note: 'iterEnd' 선언을 참조하십시오.
+c:\users\lmj33\desktop\소스 코드\datastructure\project5\main.cpp(247): error C2100: 간접 참조가 잘못되었습니다.
+c:\users\lmj33\desktop\소스 코드\datastructure\project5\main.cpp(247): error C2088: '<<': class에 맞지 않습니다.
+c:\users\lmj33\desktop\소스 코드\datastructure\project5\main.cpp(249): error C2088: '!=': class에 맞지 않습니다.
+c:\users\lmj33\desktop\소스 코드\datastructure\project5\main.cpp(249): error C2088: '++': class에 맞지 않습니다.
+c:\users\lmj33\desktop\소스 코드\datastructure\project5\main.cpp(251): error C2100: 간접 참조가 잘못되었습니다.
+c:\users\lmj33\desktop\소스 코드\datastructure\project5\main.cpp(251): error C2088: '<<': class에 맞지 않습니다.
+c:\users\lmj33\desktop\소스 코드\datastructure\project5\main.cpp(284): error C2088: '!=': class에 맞지 않습니다.
+c:\users\lmj33\desktop\소스 코드\datastructure\project5\main.cpp(284): error C2088: '++': class에 맞지 않습니다.
+c:\users\lmj33\desktop\소스 코드\datastructure\project5\main.cpp(286): error C2100: 간접 참조가 잘못되었습니다.
+c:\users\lmj33\desktop\소스 코드\datastructure\project5\main.cpp(286): error C2088: '<<': class에 맞지 않습니다.
+c:\users\lmj33\desktop\소스 코드\datastructure\project5\main.cpp(296): error C2088: '!=': class에 맞지 않습니다.
+c:\users\lmj33\desktop\소스 코드\datastructure\project5\main.cpp(296): error C2088: '++': class에 맞지 않습니다.
+c:\users\lmj33\desktop\소스 코드\datastructure\project5\main.cpp(298): error C2100: 간접 참조가 잘못되었습니다.
+c:\users\lmj33\desktop\소스 코드\datastructure\project5\main.cpp(298): error C2088: '<<': class에 맞지 않습니다.
+c:\users\lmj33\desktop\소스 코드\datastructure\project5\main.cpp(322): error C2088: '!=': class에 맞지 않습니다.
+c:\users\lmj33\desktop\소스 코드\datastructure\project5\main.cpp(322): error C2088: '++': class에 맞지 않습니다.
+c:\users\lmj33\desktop\소스 코드\datastructure\project5\main.cpp(324): error C2100: 간접 참조가 잘못되었습니다.
+c:\users\lmj33\desktop\소스 코드\datastructure\project5\main.cpp(324): error C2088: '<<': class에 맞지 않습니다.
